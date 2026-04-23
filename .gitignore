@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Vector DB / large files
+faiss_store/
+vector_store/
+
+# OS
+.DS_Store
+
+Data
