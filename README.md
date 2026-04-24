@@ -150,7 +150,3 @@ What is CNN?
 Harsh Bhatt
 
 ---
-
-## ⭐ If you found this useful
-
-Give it a star ⭐ on GitHub!
