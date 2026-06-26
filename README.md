@@ -38,7 +38,7 @@ RAG-PROJECT/
 │── app.py              # Main execution script
 │── main.py
 │── requirements.txt
-│── .env                # API keys (not committed)
+│── .env                # API keys
 │── README.md
 ```
 
