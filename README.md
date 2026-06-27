@@ -139,7 +139,6 @@ What is CNN?
 ## ✨ Future Improvements
 
 * Streamlit / Web UI
-* Chat interface with memory
 * Multi-document summarization
 * API deployment
 
